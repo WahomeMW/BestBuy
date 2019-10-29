@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestBuy", "BestBuy.csproj", "{CDFE774B-3084-492D-9D15-934671537E16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestBuy Test", "..\BestBuy Test\BestBuy Test.csproj", "{460B3AB0-A72C-4518-8324-EDDC353D4C99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDFE774B-3084-492D-9D15-934671537E16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDFE774B-3084-492D-9D15-934671537E16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDFE774B-3084-492D-9D15-934671537E16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDFE774B-3084-492D-9D15-934671537E16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{460B3AB0-A72C-4518-8324-EDDC353D4C99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{460B3AB0-A72C-4518-8324-EDDC353D4C99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{460B3AB0-A72C-4518-8324-EDDC353D4C99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{460B3AB0-A72C-4518-8324-EDDC353D4C99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4809F85-EA52-409B-9DB5-DD58313E1F04}
+	EndGlobalSection
+EndGlobal
